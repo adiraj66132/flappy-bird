@@ -17,7 +17,7 @@ A desktop Flappy Bird clone written in C++17 with [raylib](https://www.raylib.co
 ## Preview
 <img width="300" height="543" alt="Screenshot 2026-10-23 010632" src="https://github.com/user-attachments/assets/31888272-31f0-4cac-9a1e-8f0feb37c668" />
 <img width="292" height="542" alt="Screenshot 2026-10-23 010609" src="https://github.com/user-attachments/assets/53492eb3-6124-4c1f-83bc-54931df7ed13" />
-
+<img width="298" height="543" alt="image" src="https://github.com/user-attachments/assets/dab32b34-f696-4e39-80df-72b2a6e858d3" />
 
 ## Controls
 
